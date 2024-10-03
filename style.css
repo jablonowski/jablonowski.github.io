@@ -341,6 +341,10 @@ footer li a span {
   footer>ul {
     margin: 0;
   }
+
+  main {
+    overflow: hidden;
+  }
 }
 
 @media (max-width: 600px) {
